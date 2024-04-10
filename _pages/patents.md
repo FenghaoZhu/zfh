@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Patents"
 permalink: /patents/
 collection: patents
