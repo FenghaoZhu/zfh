@@ -1,5 +1,5 @@
 ---
-title: “Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning"
+title: "Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning"
 collection: publications
 permalink: /publication/GMML
 excerpt: 'An upgrade version for the former conference, using manifold learning to compress optimization space.'
