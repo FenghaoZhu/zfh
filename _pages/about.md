@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /main
 title: "Xinquan Wang"
 author_profile: true
 redirect_from: 
