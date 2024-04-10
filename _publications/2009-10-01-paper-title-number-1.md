@@ -2,7 +2,7 @@
 title: "Energy-efficient Beamforming for RISs-aided Communications: Gradient Based Meta Learning"
 collection: publications
 permalink: /publication/GBML
-excerpt: 'A robust beamforming framework using gradient-based meta learning for highly non-convex optimization problems'
+excerpt: 'A robust beamforming framework using gradient-based meta learning for highly non-convex optimization problems.'
 date: 2024-6-9
 venue: '2024 IEEE International Conference on Communications'
 paperurl: 'https://arxiv.org/abs/2311.06861'
