@@ -7,3 +7,8 @@ date: 2024-01-04
 venue: 'IEEE Wireless Communications Letters (Under major revisions)'
 citation: 'F. Zhu, X. Wang, C. Huang, A. Alhammadi, H. Chen, Z. Zhang, C. Yuen and M. Debbah, “A Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays,” IEEE Wireless Communications Letters.'
 ---
+Index Terms—**Beamforming, beam inferring, artificial intelligence, holographic antenna arrays, generative adversarial networks.**
+
+The beamforming technology with large holographic antenna arrays is one of the key enablers for the next generation of wireless systems, which can significantly improve the spectral efficiency. However, the deployment of large antenna arrays implies high algorithm complexity and resource overhead at both receiver and transmitter ends. To address this issue, advanced technologies such as artificial intelligence have been developed to reduce beamforming overhead. Intuitively, if we can implement the near-optimal beamforming only using a tiny subset of the all channel information, the overhead for channel estimation and beamforming would be reduced significantly compared with the traditional beamforming methods that usually need full channel information and the inversion of large dimensional matrix. 
+
+In light of this idea, we propose a novel scheme that utilizes Wasserstein generative adversarial network with gradient penalty to infer the full beamforming matrices based on very little of channel information. Simulation results confirm that it can accomplish comparable performance with the weighted minimum mean-square error algorithm, while reducing the overhead by over 50%. 
