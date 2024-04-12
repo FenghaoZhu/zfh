@@ -25,7 +25,7 @@ Skills
 * Programming
   * Python, Pytorch, Latex, C, etc.
 * Softwares
-  * Matlab, HFSS, etc.
+  * Matlab, etc.
 
 Publications
 ======
