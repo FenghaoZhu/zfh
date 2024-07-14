@@ -46,6 +46,7 @@ Talks
   
 Honors and Awards
 ======
+* 2024 IEEE ComSoc Student Grant
 * 2021-2022 Zhejiang University Scholarship
 * 2021-2022 Academic Excellence Award from ZJU
 * 2021-2022 Student Innovation and Entrepreneurship Award from ZJU
