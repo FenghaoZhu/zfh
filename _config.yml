@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "1.jpg"
+  avatar           : # "2.jpg"
   name             : "Xinquan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "beamforming | optimization | DL"
+  bio              : "AI | optimization | model robustness"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : "https://tp1000d.github.io/XWang"
