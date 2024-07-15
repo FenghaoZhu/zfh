@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/GLNN
 excerpt: 'This paper proposes the gradient-based liquid neural network (GLNN) method to solve the beamforming problem in mmWave massive MIMO communications.'
 date: 2024-05-12
-venue: 'IEEE Wireless Communications Letters(under review)'
+venue: 'IEEE Wireless Communications Letters(under major revisions)'
 citation: 'X. Wang, F. Zhu, C. Huang, A. Alhammadi, F. Bader, Z. Zhang, C. Yuen and M. Debbah, “Robust Beamforming with Gradient-based Liquid Neural Network,” submitted to IEEE Wireless Communications Letters.'
 ---
 Index Terms—**Beamforming, liquid neural networks, gradient, manifold learning, robustness**
