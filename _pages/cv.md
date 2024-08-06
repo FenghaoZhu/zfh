@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Eng., Zhejiang University, 2025 (expected)
+* Zhejiang University, B.E. in Information Engineering, 2019-2023
+* Zhejiang University, M.S. in Information and Communication Engineering , 2023-2026
 
 Work experience
 ======
@@ -28,19 +29,37 @@ Publications
 
 Services
 ======
-* Reviewer for IEEE Communication Letters, Physical Communication, Digital Communications and Networks, and Signal Processing
-* Reviewer of IEEE ICCC 2024
+* Reviewer for Journals: _IEEE Transactions on Communications_, _IEEE Communications Letters_, _Frontiers of Information Technology & Electronic Engineering_.
+* Reviewer for Conferences: _IEEE International Conference on Communications (ICC) 2023_, _IEEE International Conference on Communications in China (ICCC) 2023 & 2024_,  _IEEE International Conference on Communication Technology (ICCT) 2023_, _International Conference on Wireless Communications and Signal Processing (WCSP) 2023_. 
 
 
-Honors and Awards
+Scholarships
 ======
-* **2024 IEEE ComSoc Student Grant**
-* 2021-2022 Zhejiang University Scholarship
-* 2021-2022 Academic Excellence Award from ZJU
-* 2021-2022 Student Innovation and Entrepreneurship Award from ZJU
-* 2022-2023 Zhejiang University Scholarship
-* 2022-2023 Academic Excellence Award from ZJU
-* 2022-2023 Student Leadership Award from ZJU
+* 2023: JiaShen Scholarship
+* 2022: Zhejiang University Scholarship
+* 2022: Yongpin Scholarship
+* 2022: ChinaGreentown Scholarship
+* 2022: National Encouragement Scholarship
+* 2021: Zhejiang University Scholarship
+* 2021: Yongpin Scholarship
+* 2021: ChinaGreentown Scholarship
+* 2021: National Encouragement Scholarship
+* 2020: Zhejiang University Scholarship
+* 2020: National Encouragement Scholarship
+
+Awards
+======
+* 2023: Outstanding Graduates of Zhejiang University
+* 2022: National Talents Training Base Award
+* 2022: Zhejiang University Academic Excellence Award
+* 2021: Zhejiang University Outstanding Student Award
+* 2021: Zhejiang University Artistic and Athletic Achievement Award
+* 2021: Zhejiang University Academic Excellence Award
+* 2020: Zhejiang Provincial Advanced Mathematics Competition Award for University Students
+* 2020: Zhejiang Provincial University Students Physics Innovation Competition Award
+* 2020: Zhejiang University International Engagement Award
+* 2020: Zhejiang University Student Volunteer Award
+* 2020: Zhejiang University Academic Excellence Award
 
 
 Skills
@@ -48,7 +67,7 @@ Skills
 * Programming
   * Python, Pytorch, Latex, C, etc.
 * Softwares
-  * Matlab, etc.
+  * MATLAB, etc.
 
 Talks
 ======
