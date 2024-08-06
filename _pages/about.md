@@ -17,6 +17,6 @@ Several publications and patents in deep learning optimization have been publish
 
 During my internship, I developed useful skills in Python and PyTorch programming, as well as in academic presentation and writing.
 
-You can find my CV here: [Xinquan Wang's Curriculum Vitae](https://github.com/tp1000d/XWang/blob/master/assets/cv_Xinquan_Wang_ZJU.pdf).
+You can find my CV here: [Fenghao Zhu's Curriculum Vitae](https://github.com/tp1000d/XWang/blob/master/assets/cv_Xinquan_Wang_ZJU.pdf).
 
 [Email](mailto:zjuzfh@zju.edu.cn) / [Github](https://github.com/fenghaozhu) /  [Google Scholar](https://scholar.google.com/citations?user=0llzifoAAAAJ&hl=en)
