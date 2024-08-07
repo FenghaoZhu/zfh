@@ -2,7 +2,7 @@
 title: "Robust multi-modal beam forming design method based on liquid neural network"
 collection: patents
 permalink: /patents/GLNN
-date: 2024-04-18
+date: Aug. 2024
 venue: "State Intellectual Property Office, China"
 patent_number: "CN118300656A"
 ---
