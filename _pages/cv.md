@@ -12,14 +12,25 @@ redirect_from:
 Education
 ======
 * Zhejiang University, B.E. in Information Engineering, 2019-2023
-* Zhejiang University, M.S. in Information and Communication Engineering , 2023-2026
+  * GPA: 3.93/4
+  * Coursework: Data analysis and Algorithm Design, Matrix Theory, Probability and Mathematical Statistics, Principles of Communications, Artificial Intelligence, Signal Processing.
+* Zhejiang University, M.S. in Information and Communication Engineering, 2023-2026
+  * Supervisor: Prof. Chongwen Huang
 
-Work experience
+Experience
 ======
-* 2022-Present: Undergraduate research assistant
-  * Institute of Information, Communication and Network Engineering, ZJU
-  * Duties includes: Researching on beamforming optimization for communications; presenting project progress, findings to client-side stakeholders.
-  * Instructor: Prof. Chongwen Huang
+* Nov. 2023 - Mar. 2024: Contributor, IMT-2030 (6G) Standard Promotion Group
+  * Presented research findings at the IMT-2030(6G) Promotion Group standards discussion meeting (AI and RIS topics), contributing to the formulation and advancement of industry standards.
+
+* Aug. 2022 - Oct. 2022: Research Assistant, Zhejiang University, Department of Information and Communication
+  * Design a Graph Neural Network (GNN)-based channel decoding algorithm to reduce bit error rate in end-to-end machine learning empowered wireless communications systems.
+
+* Jul. 2022 - Aug. 2022: Research Assistant, Zhejiang University, Department of Electronics 
+  * Implement the Discontinuous Galerkin Time Domain (DGTD) method in electromagnetic and thermal coupled fields problems.
+    
+* Jun. 2022 - Jul. 2022: Online Summer School, AI & Internet of Things (AIOT) with UIUC
+  * Learn about the AI techniques in Internet of Things.
+
 
 Publications
 ======
@@ -69,9 +80,4 @@ Skills
 * Softwares
   * MATLAB, etc.
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
