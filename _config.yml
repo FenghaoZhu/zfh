@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2.png"
+  avatar           : "zfh_selfie_square.jpg"
   name             : "Fenghao Zhu"
   pronouns         : # example: "he/him"  
   bio              : "NeuroAI | Optimization | Model Robustness | Wireless "
