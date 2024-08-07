@@ -2,7 +2,7 @@
 title: "A cross-scenario robust beamforming design method based on hybrid meta-learning"
 collection: patents
 permalink: /patents/GEML
-date: 2023-10-26
+date: Jan. 2024
 venue: "State Intellectual Property Office, China"
 patent_number: "CN117459106A"
 ---
