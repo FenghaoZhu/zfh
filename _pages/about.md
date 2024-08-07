@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a graduate student from [School of ISEE](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). My research interest includes NeuroAI, robust optimization, AI for science, wireless communications, etc.
 
-I am very fortunate to be advised by [Prof. Chongwen Huang](https://www.researchgate.net/profile/Huang-Chongwen/stats) of institude of information, communication and network engineering, Zhejiang University.
+I am very fortunate to be advised by [Prof. Chongwen Huang](https://www.researchgate.net/profile/Huang-Chongwen/stats) in institude of information, communication and network engineering, Zhejiang University.
 
 My research focus is optimization algorithm in intelligent communications, especially neuron-inspired opotimization methods. Specifically, I developed an ODE-based flexible neural network beamforming architecture to enhance robustness in dynamic and noisy environments. Besides, I proposed a training-free meta-learning architecture that collaborates the optimization of phase shifting matrix and precoding matrix in RIS-aided communications. This research project has been accepted and orally presented at _IEEE International Conference on Communications (ICC) 2024_. Moreover, an upgraded version of this work has been accepted by _IEEE Transactions on Wireless Communications 2024_. I also hold five patents, which are currently under review by the State Intellectual Property Office.
 
