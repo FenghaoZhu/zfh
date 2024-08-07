@@ -14,6 +14,6 @@ My research focus is optimization algorithm in intelligent communications, espec
 
 If you are interested in my works, please refer [my publications](https://fenghaozhu.github.io/publications/) for papers and [my patents](https://fenghaozhu.github.io/patents/) for patents.
 
-You can find my CV here: [Fenghao Zhu's Curriculum Vitae](https://fenghaozhu.github.io/blob/master/assets/ZFH_CV.pdf).
+You can find my CV here: [Fenghao Zhu's Curriculum Vitae](https://github.com/FenghaoZhu/FenghaoZhu.github.io/blob/master/assets/ZFH_CV.pdf).
 
 [Email](mailto:zjuzfh@zju.edu.cn) / [Github](https://github.com/fenghaozhu) / [Google Scholar](https://scholar.google.com/citations?user=0llzifoAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Fenghao-Zhu-2)
