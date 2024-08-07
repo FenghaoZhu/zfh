@@ -6,7 +6,6 @@ date: Jan. 2024
 venue: "State Intellectual Property Office, China"
 patent_number: "CN117459106A"
 ---
-Name: Cross-scene robust beamforming design method based on hybrid meta learning
 
 Chinese Name: 一种基于混合元学习的跨场景的鲁棒性波束赋形设计方法
 
