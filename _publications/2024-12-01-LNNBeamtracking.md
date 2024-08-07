@@ -10,6 +10,4 @@ citation: 'F. Zhu, X. Wang, C. Huang, R. Jin, Q. Yang, A. Alhammadi, Z. Zhang, C
 ---
 Index Terms—**Beam tracking, beam training, mmWave communications, liquid neural network, deep learning.**
 
-Accepted by _IEEE Global Communications Conference (GLOBECOM) 2024_.
-
 In order to perform real-time beam tracking in the presence of background noise, a robust continuous-time beam tracking method leveraging liquid neural network was proposed in the paper. This approach allows for dynamic adjustments to the inputs, enhancing adaptability and performance in noisy environments. 
