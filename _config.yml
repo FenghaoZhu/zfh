@@ -22,27 +22,27 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "2.png"
-  name             : "Xinquan Wang"
+  name             : "Fenghao Zhu"
   pronouns         : # example: "he/him"  
-  bio              : "AI | optimization | model robustness"
+  bio              : "NeuroAI | Optimization | Model Robustness | Wireless "
   location         : "Hangzhou 310027, China"
   employer         : "Zhejiang University"
   uri              : "https://tp1000d.github.io/XWang"
-  email            : "wangxinquan@zju.edu.cn" 
+  email            : "zjuzfh@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=uvIxTL8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0llzifoAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-9986-7054"
+  orcid            : "https://orcid.org/0009-0006-5585-7302"
   pubmed           : # no
-  researchgate     : "https://www.researchgate.net/profile/Xinquan-Wang-8"
+  researchgate     : "https://www.researchgate.net/profile/Fenghao-Zhu-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/FenghaoZhu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -69,8 +69,8 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/suber-26-55"
+  youtube          : "https://www.youtube.com/@liulongquan"
+  zhihu            : "https://www.zhihu.com/people/6g-ai"
 
 
 # Site Settings
